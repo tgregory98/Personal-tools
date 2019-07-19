@@ -1,6 +1,6 @@
 # Personal-tools
 
-This repo is my personal collection of python scripts. Some of them may be useful tools for simple tasks, and others were just little experiments.
+This repo is my personal collection of python scripts. Some of them may be useful tools for simple tasks, and others were just little experiments. Feel free to have a look.
 
 ### 2D-plot
 A straightforward function plotter.
@@ -16,5 +16,3 @@ An experiment. Finds a path between a start and end vertex on a grid with obstac
 
 ### Phaseplane-plot
 Plots a 2D automonous system.
-
-## Have fun with it!
