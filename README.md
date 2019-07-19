@@ -1,6 +1,6 @@
 # Personal-tools
 
-This repo is my personal collection of python scripts. Some of them may be useful tools for simple tasks, and others were just little experiments. Feel free to have a look.
+This repository is my personal collection of python scripts. Some of them may be useful tools for simple tasks, and others were just little experiments. Feel free to have a look.
 
 ### 2D-plot
 A straightforward function plotter.
