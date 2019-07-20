@@ -15,4 +15,4 @@ A tool for easily drawing bifurcation diagrams easily. Logistic-bifurcation-map.
 An experiment. Finds a path between a start and end vertex on a grid with obstacles.
 
 ### Phaseplane-plot (pretty pictures)
-Plots a 2D automonous system.
+Plots a 2D autonomous system.
